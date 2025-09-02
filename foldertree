@@ -1,0 +1,30 @@
+my-balance-buddy
+├── .gitignore
+├── README.md
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── src
+│   ├── app
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── onboarding
+│   │   │   └── page.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── Dashboard.tsx
+│   │   ├── TransactionForm.tsx
+│   │   └── TransactionHistory.tsx
+│   └── context
+│       └── AppContext.tsx
+└── tsconfig.json
